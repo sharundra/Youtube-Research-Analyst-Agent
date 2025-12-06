@@ -3,3 +3,4 @@ langchain_openai
 youtube-transcript-api
 duckduckgo-search
 youtube-search
+streamlit
